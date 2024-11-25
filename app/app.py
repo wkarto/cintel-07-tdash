@@ -6,7 +6,7 @@ from shiny.express import input, render, ui
 import palmerpenguins 
 
 df = palmerpenguins.load_penguins()
-
+#page title
 ui.page_opts(title="Penguins analysis dashboard", fillable=True)
 
 
