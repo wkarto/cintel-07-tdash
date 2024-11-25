@@ -55,7 +55,7 @@ Open a terminal (VS Code menu "View" / "Terminal") in the root project folder an
 shiny run --reload --launch-browser app/app.py
 ```
 
-Open a browser to <http://127.0.0.1:8000/> and test the app.
+Open a browser to <https://wkarto.github.io/cintel-07-tdash> and test the app.
 
 ## Run Locally - Subsequent Starts
 
